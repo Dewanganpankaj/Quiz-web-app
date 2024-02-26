@@ -59,7 +59,8 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 ## 7. Adapted from: 
 
 UDEMY Course Name: Build a Quiz App with HTML, CSS, and JavaScript
+## 8. i am working on it ,here i am trying to give an login id and password for admin , teacher , student 
 
-Created by James Quick
-
-URL: https://www.udemy.com/course/build-a-quiz-app-with-html-css-and-javascript/
+students are giving the exam 
+teachers are assist based on student wright making 
+admin is adding techer and student both and also monitoring overall how many student are giving the exam and also generate the report card
