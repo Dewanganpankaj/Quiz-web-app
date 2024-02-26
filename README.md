@@ -20,20 +20,8 @@ At the end, a list of scores showing the highest score is displayed.
 - IDE: VSCode
 
 
-## 3. Installation:
-
-i. Clone the git repo
-
-```
+## 3. Installation and references:
 https://github.com/AAdewunmi/Quiz-App-Project.git
-```
-
-ii. Open project folder
-
-iii. Explore
-
-😎
-
 
 ## 4. How To Use:
 
