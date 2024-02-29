@@ -50,5 +50,5 @@ UDEMY Course Name: Build a Quiz App with HTML, CSS, and JavaScript
 ## 8. i am working on it ,here i am trying to give an login id and password for admin , teacher , student 
 
 students are giving the exam 
-teachers are assist based on student wright making 
+teachers monitoring the student 
 admin is adding techer and student both and also monitoring overall how many student are giving the exam and also generate the report card
